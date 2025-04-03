@@ -10,7 +10,7 @@ body {
 
 
 header {
-    background-color: rgb(100,100,100);
+    background-color: rgb(35,35,35);
     color: white;
     padding: 1rem 0;
 }
@@ -53,7 +53,7 @@ main {
 
 .container-list  {
     /* background-color: aqua; */
-    border: 2px solid rgb(175, 175, 175);
+    border: 2px solid rgb(175,175,175);
     border-radius: 15px;
     width: 65%;
     padding: 35px;
@@ -75,7 +75,7 @@ main {
 
 
 .cta-button {
-    background-color: rgb(125,125,125);
+    background-color: rgb(85,85,85);
     color: white;
     padding: 1rem 3rem;
     width: 145px;
@@ -89,7 +89,7 @@ main {
 }
 
 .cta-button:hover {
-    background-color: rgb(100,100,100);
+    background-color: rgb(75,75,75);
 }
 
 
@@ -97,12 +97,12 @@ main {
 
 
 .btn-button {
-    color: rgb(175, 150, 100);
+    color:  rgb(0,115,245);
     /* text-decoration: none; */
 }
 
 .btn-button:hover {
-    color: rgb(150,125,75);
+    color: rgb(0,95,215);
 }
 
 
