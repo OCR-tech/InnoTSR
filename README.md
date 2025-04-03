@@ -1,10 +1,27 @@
-# InnoTSR: Traffic Sign Recognition system with integrated voice command alert
+# InnoTSR: Real-Time Traffic Sign Recognition system with voice feedback command
 
 
 ## Key Features
 - **Deep Learning Integration**: Utilizes advanced deep learning algorithms for accurate traffic sign detection and recognition.
 - **Voice Command Alerts**: Built-in instant voice alert to notify the user of detected traffic sign information in real-time.
 - **Enhanced User Experience**: Provides a seamless and intuitive experience for advanced traffic sign recognition and alert systems
+
+
+<!-- ## Requirements
+
+Before running this project, install the following dependencies:
+- Python 3.6 or higher
+- Tensorflow 2.18 or higher
+- YOLOv5 model from [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
+- OpenCV for video capturing and processing
+- SpeechRecognition for voice command processing
+- Pyaudio (optional, depending on your microphone setup)
+
+To install the necessary Python packages, run:
+
+```bash
+pip install -r requirements.txt
+``` -->
 
 
 ## Installation
