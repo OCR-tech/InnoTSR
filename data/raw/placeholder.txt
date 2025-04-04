@@ -1,0 +1,2 @@
+# This is a placeholder file for the raw data directory.
+# Please add your raw traffic sign images here.

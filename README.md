@@ -1,30 +1,25 @@
-# InnoTSR: Real-Time Traffic Sign Recognition system with voice feedback command
+# InnoTSR: Real-Time Traffic Sign Recognition System with Voice Feedback 
+
+**InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system with voice feedback control using deep learning providing real-time information to users for traffic monitoring and management systems.
 
 
 ## Key Features
-- **Deep Learning Integration**: Utilizes advanced deep learning algorithms for accurate traffic sign detection and recognition.
+- **Hign Accuracy**: Utilizes cutting-edge deep learning algorithms for accurate traffic sign detection and recognition.
 - **Voice Command Alerts**: Built-in instant voice alert to notify the user of detected traffic sign information in real-time.
-- **Enhanced User Experience**: Provides a seamless and intuitive experience for advanced traffic sign recognition and alert systems
-
-
-<!-- ## Requirements
-
-Before running this project, install the following dependencies:
-- Python 3.6 or higher
-- Tensorflow 2.18 or higher
-- YOLOv5 model from [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
-- OpenCV for video capturing and processing
-- SpeechRecognition for voice command processing
-- Pyaudio (optional, depending on your microphone setup)
-
-To install the necessary Python packages, run:
-
-```bash
-pip install -r requirements.txt
-``` -->
+- **Enhanced User Experience**: Provides a seamless and intuitive graphical user interface experience.
 
 
 ## Installation
+
+**Requirements**: 
+- Python 3.11 or higher
+
+**Prerequisition**: 
+- install the necessary Python packages:
+
+```bash
+pip install -r requirements.txt
+``` 
 
 To install and run the project locally, follow these steps:
 
@@ -51,10 +46,28 @@ To install and run the project locally, follow these steps:
 ## Usage
 
 To use the traffic sign recognition system, follow these instructions:
-
 1. **Prepare your environment**: Ensure your system has a camera or input method to capture traffic signs.
 2. **Start the application**: Run the main script to initiate the traffic sign recognition system.
 3. **Voice Command Alerts**: The system will provide real-time voice alerts for detected traffic signs.
+
+
+for usages, run the following commands:
+1. **Train the model**: Ensure you have a dataset of traffic sign images in the data/raw directory.
+   ```bash
+   python scripts/train.py
+   ```
+
+2. **Run the dection script**:
+   ```bash
+   python scripts/detect.py
+   ```
+
+3. **Run the user interface:**:
+   ```bash
+   python ui/main.py
+   ```
+
+
 
 ## Project Structure
 
