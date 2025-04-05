@@ -1,3 +1,6 @@
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+
 import cv2
 import numpy as np
 import tensorflow as tf
@@ -18,6 +21,7 @@ class TrafficSignDetector:
                             "Keep right", "Keep left", "Roundabout mandatory", "End of no passing", 
                             "End of no passing by vehicles over 3.5 metric tons"]
 
+
     def detect(self, image):
         image_resized = cv2.resize(image, (64, 64))
         image_array = np.expand_dims(image_resized, axis=0)
@@ -36,10 +40,12 @@ if __name__ == "__main__":
     detector = TrafficSignDetector("models/traffic_sign_model.h5")
     cap = cv2.VideoCapture(0)
 
+
     while True:
         ret, frame = cap.read()
         if not ret:
             break
+
 
         # print("ret",ret)
         # print("frame",frame.shape)
@@ -76,8 +82,15 @@ if __name__ == "__main__":
 
         cv2.imshow("Traffic Sign Detection", frame)
 
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        # if cv2.waitKey(1) & 0xFF == ord('q'):
+        #     break
+
+        key = cv2.waitKey(1)
+        if key == ord("Q") or key == ord("q") or key == 27:
             break
+        # elif key == ord("C") or key == ord("c"):
+        #     image_filter = CANNY
+
 
     cap.release()
     cv2.destroyAllWindows()

@@ -28,4 +28,5 @@ if __name__ == "__main__":
     data = load_data()
     model = build_model()
     train_model(model, data)
+    # model.save('models/traffic_sign_model.h5')
     model.save('models/traffic_sign_model.h5')
