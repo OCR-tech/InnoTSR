@@ -1,6 +1,6 @@
 # InnoTSR: Real-Time Traffic Sign Recognition System with Voice Feedback 
 
-**InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system with voice feedback control using deep learning providing real-time information to users for traffic monitoring systems.
+**InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system using deep learning with voice feedback providing real-time information to users for personalized alert systems.
 
 
 ## Key Features
