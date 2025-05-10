@@ -1,4 +1,4 @@
-# InnoTSR: Real-Time Traffic Sign Recognition System with Voice Feedback 
+# InnoTSR: Real-Time Traffic Sign Recognition System with Voice Feedback
 
 **InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system using deep learning with voice feedback providing real-time information to users for personalized alert systems.
 
@@ -17,36 +17,28 @@
 
 ## Installation
 
-**Requirements**: 
+**Requirements**:
 - Python 3.11 or higher
+- Tensorflow 2.18 or higher
+- SSD MobileNet V2 model
+- OpenCV for video capturing and processing
+- SpeechRecognition for voice command processing
 
-**Prerequisition**: 
-- install the necessary Python packages:
-
-```bash
-pip install -r requirements.txt
-``` 
-
-To install and run the project locally, follow these steps:
+To install this project, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/OCR-tech/InnoTSR.git
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
    ```
 
 2. **Navigate to the project directory**:
-   ```bash
-   cd InnoTSR
+   ```sh
+   cd your-repository
    ```
 
-3. **Install the required dependencies**:
-   ```bash
+3. **Install the dependencies**:
+   ```sh
    pip install -r requirements.txt
-   ```
-
-4. **Run the application**:
-   ```bash
-   python main.py
    ```
 
 ## Usage
@@ -57,22 +49,26 @@ To use the traffic sign recognition system, follow these instructions:
 3. **Voice Command Alerts**: The system will provide real-time voice alerts for detected traffic signs.
 
 
-for usages, run the following commands:
-1. **Train the model**: Ensure you have a dataset of traffic sign images in the data/raw directory.
+Run the following commands:
+1. **Train the model**: Ensure you have a dataset of traffic sign images in the `dataset/raw_data`.
    ```bash
    python scripts/train.py
    ```
 
-2. **Run the dection script**:
+<!-- 2. **Run the detection script**:
    ```bash
    python scripts/detect.py
-   ```
+   ``` -->
 
-3. **Run the user interface:**:
+<!-- 2. **Run the user interface:**:
    ```bash
    python ui/main.py
-   ```
+   ``` -->
 
+2. **Run the application**:
+   ```sh
+   python main.py
+   ```
 
 
 ## Project Structure
@@ -81,33 +77,25 @@ The repository contains the following main files and folders:
 
 - `main.py`: The main script to run the application.
 - `requirements.txt`: A list of dependencies required to run the project.
-- `models/`: Directory containing pre-trained models for traffic sign recognition.
-- `data/`: Directory for storing training and test datasets.
-- `utils/`: Utility functions and helper scripts.
+- `models/`: Directory containing pre-trained and saved models for traffic sign recognition.
+- `dataset/`: Directory for storing training and test datasets.
+- `scripts/`: Utility functions and helper scripts.
+<!-- - `utils/`: Utility functions and helper scripts. -->
 
 ## Contributing
 
-We welcome contributions to enhance the InnoTSR project. To contribute, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Make your changes and commit them**:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. **Push to the branch**:
-   ```bash
-   git push origin feature-branch
-   ```
-5. **Create a pull request**.
+For contributions, please follow these steps:
+For contributions, please follow the steps below:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new pull request.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact the project owner at [OCR-tech](https://github.com/OCR-tech).
+For any questions, please contact us at: [OCR-tech](https://github.com/OCR-tech).
