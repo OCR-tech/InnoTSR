@@ -50,7 +50,7 @@ To use the traffic sign recognition system, follow these instructions:
 
 
 Run the following commands:
-1. **Train the model**: Ensure you have a dataset of traffic sign images in the `dataset/raw_data`.
+1. Train the model: Ensure you have a dataset of traffic sign images in the `dataset/raw_data`.
    ```bash
    python scripts/train.py
    ```
@@ -65,12 +65,12 @@ Run the following commands:
    python ui/main.py
    ``` -->
 
-2. **Run the application**:
+2. Run the application:
    ```sh
    python main.py
    ```
 
-
+<!--
 ## Project Structure
 
 The repository contains the following main files and folders:
@@ -80,7 +80,8 @@ The repository contains the following main files and folders:
 - `models/`: Directory containing pre-trained and saved models for traffic sign recognition.
 - `dataset/`: Directory for storing training and test datasets.
 - `scripts/`: Utility functions and helper scripts.
-<!-- - `utils/`: Utility functions and helper scripts. -->
+- `utils/`: Utility functions and helper scripts. 
+-->
 
 ## Contributing
 
