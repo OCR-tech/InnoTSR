@@ -26,17 +26,17 @@
 
 To install this project, follow these steps:
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/your-repository.git
    ```
 
-2. **Navigate to the project directory**:
+2. Navigate to the project directory:
    ```sh
    cd your-repository
    ```
 
-3. **Install the dependencies**:
+3. Install the dependencies:
    ```sh
    pip install -r requirements.txt
    ```
