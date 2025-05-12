@@ -1,0 +1,25 @@
+# InnoTSR/
+# ├── .github/                # GitHub-specific files and workflows
+# │   └── workflows/          # CI/CD pipeline configurations
+# ├── app/                    # Main application directory
+# │   ├── project_structure.txt # Project structure documentation
+# │   ├── main.py             # Entry point of the application
+# │   ├── modules/            # Application modules
+# │   │   ├── detection.py    # Object detection logic
+# │   │   ├── voice.py        # Voice command handling
+# │   │   └── utils.py        # Utility functions
+# │   └── config.yaml         # Configuration file
+# ├── models/                 # Machine learning models
+# │   └── pretrained/         # Pretrained models directory
+# │   └── saved/              # Saved models directory
+# ├── tests/                  # Test scripts
+# │   ├── test_app.py         # Application test cases
+# │   └── test_modules.py     # Module-specific test cases
+# ├── docs/                   # Documentation files
+# │   └── index.md            # Documentation index
+# ├── requirements.txt        # Python dependencies
+# ├── README.md               # Project overview and instructions
+# ├── LICENSE                 # Licensing information
+# ├── CONTRIBUTING.md         # Contribution guidelines
+# ├── Dockerfile              # Docker container configuration
+# └── .gitignore              # Git ignore rules
