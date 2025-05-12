@@ -9,9 +9,9 @@ image = "pic1a.jpg"
 # image = "pic3a.jpg"
 
 # Specify the video file to be used.
-video = "street1.mp4"      # street        # 3840x2160    24fps
-# video = "street2.mp4"     # bike          # 1920x1080    30fps
-# video = "street3.mp4"     # bike/night    # 1920x1080    30fps
+video = "video1.mp4"      # street        # 3840x2160    24fps
+# video = "video2.mp4"     # bike          # 1920x1080    30fps
+# video = "video3.mp4"     # bike/night    # 1920x1080    30fps
 
 # Define the base path for resources (images and videos).
 # path = 'D:/dataset/'
