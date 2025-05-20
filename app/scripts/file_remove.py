@@ -22,7 +22,8 @@ def remove_pycache(path: Path) -> List[Path]:
 if __name__ == "__main__":
 
     # Get the path to the app directory
-    path = Path(os.path.join(os.path.dirname(os.getcwd()), "InnoTSR", "app"))
+    path = Path(os.path.join(os.path.dirname(os.getcwd()), "InnoTSR"))
+    # path = Path(os.path.join(os.path.dirname(os.getcwd()), "InnoTSR", "app"))
     print(f"Path to app directory: {path}")
 
     # Check if the path exists

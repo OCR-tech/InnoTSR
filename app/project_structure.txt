@@ -17,9 +17,11 @@
 # │   └── test_modules.py     # Module-specific test cases
 # ├── docs/                   # Documentation files
 # │   └── index.md            # Documentation index
+# │── config/                 # Configuration files
+# │── scripts/                # Helper or automation scripts
 # ├── requirements.txt        # Python dependencies
 # ├── README.md               # Project overview and instructions
 # ├── LICENSE                 # Licensing information
 # ├── CONTRIBUTING.md         # Contribution guidelines
-# ├── Dockerfile              # Docker container configuration
+# │── CODE_OF_CONDUCT.md      # Code of conduct for contributors
 # └── .gitignore              # Git ignore rules
