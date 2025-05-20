@@ -3,6 +3,25 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue)
+![OpenCV](https://img.shields.io/badge/opencv-4.5%2B-blue)
+![SpeechRecognition](https://img.shields.io/badge/speechrecognition-3.8%2B-blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/OCR-tech/InnoTSR?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/OCR-tech/InnoTSR?style=social)
+![GitHub Repo watchers](https://img.shields.io/github/watchers/OCR-tech/InnoTSR?style=social)
+![GitHub Repo issues](https://img.shields.io/github/issues/OCR-tech/InnoTSR)
+![GitHub Repo pull requests](https://img.shields.io/github/issues-pr/OCR-tech/InnoTSR?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/OCR-tech/InnoTSR)
+![GitHub top language](https://img.shields.io/github/languages/top/OCR-tech/InnoTSR)
+![GitHub issues closed](https://img.shields.io/github/issues-closed/OCR-tech/InnoTSR)
+![GitHub issues open](https://img.shields.io/github/issues-raw/OCR-tech/InnoTSR)
+![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/OCR-tech/InnoTSR)
+![GitHub pull requests open](https://img.shields.io/github/issues-pr-raw/OCR-tech/InnoTSR)
+![GitHub last commit](https://img.shields.io/github/last-commit/OCR-tech/InnoTSR)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OCR-tech/InnoTSR)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/OCR-tech/InnoTSR) -->
+
 **InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system using deep learning with voice feedback providing real-time information to users for personalized alert systems.
 
 <br/>
@@ -21,10 +40,10 @@
 Requirements:
 
 - Python 3.11 or higher
-- TensorFlow 2.18 or higher
-- SSD MobileNet V2 model
 - OpenCV for video capturing and processing
 - SpeechRecognition for voice command processing
+  <!-- - TensorFlow 2.18 or higher -->
+  <!-- - SSD MobileNet V2 model -->
 
 To install this project, please follow these steps:
 
@@ -117,5 +136,3 @@ If you have questions, suggestions, or would like to contribute, feel free to re
 - **Email**: ocrtech.mail@gmail.com
 - **Website**: [https://ocr-tech.github.io/InnoTSR](https://ocr-tech.github.io/InnoTSR/)
 - **GitHub**: [https://github.com/OCR-tech](https://github.com/OCR-tech)
-
-We welcome feedback and collaboration opportunities!
