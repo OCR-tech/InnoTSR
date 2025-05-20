@@ -1,7 +1,7 @@
 # InnoTSR: Real-Time Traffic Sign Recognition System with Voice Feedback
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue)
@@ -116,7 +116,6 @@ The repository contains the following main files and folders:
 
 ## Contributing
 
-For contributions, please follow these steps:
 For contributions, please follow the steps below:
 
 1. Fork the repository.
