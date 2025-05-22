@@ -2,22 +2,9 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.InnoTSR)
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue)
-![OpenCV](https://img.shields.io/badge/opencv-4.5%2B-blue)
-![SpeechRecognition](https://img.shields.io/badge/speechrecognition-3.8%2B-blue)
-![GitHub Repo stars](https://img.shields.io/github/stars/OCR-tech/InnoTSR?style=social)
-![GitHub Repo forks](https://img.shields.io/github/forks/OCR-tech/InnoTSR?style=social)
-![GitHub Repo watchers](https://img.shields.io/github/watchers/OCR-tech/InnoTSR?style=social)
-![GitHub Repo issues](https://img.shields.io/github/issues/OCR-tech/InnoTSR)
-![GitHub Repo pull requests](https://img.shields.io/github/issues-pr/OCR-tech/InnoTSR?style=social)
-![GitHub language count](https://img.shields.io/github/languages/count/OCR-tech/InnoTSR)
-![GitHub top language](https://img.shields.io/github/languages/top/OCR-tech/InnoTSR)
-![GitHub issues closed](https://img.shields.io/github/issues-closed/OCR-tech/InnoTSR)
-![GitHub issues open](https://img.shields.io/github/issues-raw/OCR-tech/InnoTSR)
-![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/OCR-tech/InnoTSR)
-![GitHub pull requests open](https://img.shields.io/github/issues-pr-raw/OCR-tech/InnoTSR)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OCR-tech/InnoTSR)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OCR-tech/InnoTSR)
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/OCR-tech/InnoTSR) -->
