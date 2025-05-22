@@ -34,9 +34,9 @@ videopath = os.path.join(path, "app", "resources", "video", video)
 # - URL for an IP camera stream
 # s = "http://192.168.30.139:4747/video"
 # s = "http://192.168.30.139:8080/video"
-# s = 0
-# s = 1
-s = videopath
+# s = 0             # webcam
+# s = 1               # external webcam
+s = videopath     # video file
 
 # //=======================================//
 # Paths to the model configuration, weights, and class labels
