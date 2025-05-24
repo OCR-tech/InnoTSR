@@ -45,7 +45,7 @@ To install this project, please follow these steps:
 
    ```sh
    python -m venv .venv
-   .venv\Scripts\Activate
+   .\.venv\Scripts\Activate
    ```
 
 3. Install the dependencies:
