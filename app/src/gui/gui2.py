@@ -36,7 +36,8 @@ class TrafficSignGUI:
         self.exit_btn = tk.Button(root, text="Exit", command=self.on_exit)
         self.exit_btn.pack(pady=5)
 
-        self.cap = cv2.VideoCapture(1)
+        # self.cap = cv2.VideoCapture(0)      # Use 0 for the default camera
+        self.cap = cv2.VideoCapture(1)      # Use 1 for the external camera
         self.running = True
         self.update_video()
 
