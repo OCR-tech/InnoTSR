@@ -10,11 +10,11 @@ Thank you for considering contributing to **InnoTSR**.
 
 There are several ways to contribute:
 
-1. **Reporting and fixing bugs**
-2. **Suggesting Features**
-3. **Improving Documentation**
-4. **Sharing Use Cases**
-5. **Spreading the Word**
+1. Reporting and fixing bugs
+2. Suggesting Features
+3. Improving Documentation
+4. Sharing Use Cases
+5. Spreading the Word
 
 ## 📝 Reporting Issues
 
@@ -40,14 +40,14 @@ To propose a new feature:
 
 To contribute code or documentation:
 
-1. **Fork the Repository**
-2. **Create a New Branch**
-3. **Make Changes**
-4. **Test Your Changes**
-5. **Commit Changes**
-6. **Push to Your Fork**
-7. **Open a Pull Request**
-8. **Describe Your Changes**
+1. Fork the Repository
+2. Create a New Branch
+3. Make Changes
+4. Test Your Changes
+5. Commit Changes
+6. Push to Your Fork
+7. Open a Pull Request
+8. Describe Your Changes
 
 <!-- ## 📝 Code Style Guidelines
 When contributing code, please follow these guidelines:
