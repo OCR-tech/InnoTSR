@@ -43,8 +43,8 @@ def main():
                 # speak("Start the system.")
                 detect = TrafficSignDetector(imagepath, videopath, configpath, modelpath, classespath)
 
-                # detect.onVideo()
-                detect.onImage()
+                detect.onVideo()
+                # detect.onImage()
 
             elif command == "help":
                 print("Available commands: start, help, exit")

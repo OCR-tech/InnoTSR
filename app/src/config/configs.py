@@ -9,8 +9,8 @@ image = "pic1.jpg"
 # image = "pic3.jpg"
 
 # Specify the video file to be used.
-# video = "video1.mp4"        # 3840x2160    30fps
-video = "video2.mp4"      # 1920x1080    30fps
+video = "video1.mp4"        # 3840x2160    30fps
+# video = "video2.mp4"      # 1920x1080    30fps
 
 # Define the base path for resources (images and videos).
 # path = 'D:/dataset/'
@@ -20,7 +20,7 @@ path = os.getcwd()
 
 # Construct the full paths for the image and video files
 imagepath = os.path.join(path, "app", "resources", "image", image)
-# imagepath = "-"     # Uncomment this line to disable image input
+imagepath = "-"     # Uncomment this line to disable image input
 videopath = os.path.join(path, "app", "resources", "video", video)
 
 # Define the video source
