@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We are committed to providing a welcoming and supportive environment for all participants, where everyone feels respected and valued.
+We are committed to providing a welcoming and supportive environment for all participants.
 
 ## Our Standards
 
