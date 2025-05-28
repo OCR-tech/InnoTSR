@@ -3,11 +3,11 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.InnoTSR)
-<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR)
-![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/OCR-tech/InnoTSR)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OCR-tech/InnoTSR)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/OCR-tech/InnoTSR) -->
+
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR) -->
+<!-- ![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue) -->
+<!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OCR-tech/InnoTSR) -->
+<!-- ![GitHub contributors](https://img.shields.io/github/contributors-anon/OCR-tech/InnoTSR) -->
 
 **InnoTSR** project is a Python-based real-time Traffic Sign Recognition (TSR) system using deep learning with voice feedback providing real-time information to users for personalized alert systems.
 
@@ -68,38 +68,10 @@ To use the traffic sign recognition system, follow these instructions:
 
 Run the following commands:
 
-<!-- 1. Train the model: Ensure you have a dataset of traffic sign images in the `app/dataset/raw_data`.
-   ```sh
-   python scripts/train.py
-   ``` -->
-
-<!-- 2. **Run the detection script**:
-   ```sh
-   python scripts/detect.py
-   ``` -->
-
-<!-- 2. **Run the user interface:**:
-   ```sh
-   python ui/main.py
-   ``` -->
-
 1. Run the application:
    ```sh
    python app/main.py
    ```
-
-<!--
-## Project Structure
-
-The repository contains the following main files and folders:
-
-- `main.py`: The main script to run the application.
-- `requirements.txt`: A list of dependencies required to run the project.
-- `models/`: Directory containing pre-trained and saved models for traffic sign recognition.
-- `dataset/`: Directory for storing training and test datasets.
-- `scripts/`: Utility functions and helper scripts.
-- `utils/`: Utility functions and helper scripts.
--->
 
 ## Contributing
 
