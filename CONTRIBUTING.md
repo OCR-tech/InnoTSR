@@ -10,11 +10,11 @@ Thank you for considering contributing to **InnoTSR**.
 
 There are several ways to contribute:
 
-1. Reporting and fixing bugs
-2. Suggesting Features
-3. Improving Documentation
-4. Sharing Use Cases
-5. Spreading the Word
+- Reporting and Fixing Bugs
+- Suggesting Features
+- Improving Documentation
+- Sharing Use Cases
+- Spreading the Word
 
 ## 📝 Reporting Issues
 
