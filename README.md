@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.InnoTSR)
 
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.InnoTSR) -->
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/OCR-tech/InnoTSR) -->
 <!-- ![TensorFlow](https://img.shields.io/badge/tensorflow-2.18%2B-blue) -->
 <!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OCR-tech/InnoTSR) -->

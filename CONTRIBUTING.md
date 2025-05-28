@@ -43,14 +43,6 @@ To contribute code or documentation:
 7. **Open a Pull Request**: Go to the original repository and open a pull request from your forked repository.
 8. **Describe Your Changes**: In the PR description, provide a detailed description of your changes.
 
-<!-- ## 📝 Code Style Guidelines
-When contributing code, please follow these guidelines:
-- Follow existing code style and patterns in the repository.
-- Write clear, self-documenting code with descriptive variable and function names.
-- Include comments for complex logic or non-obvious behavior.
-- Write tests for new functionality and any changes.
-- Update documentation for user-facing changes. -->
-
 ## 🎉 Thank you
 
 Thank you for contributing to **InnoTSR**. We appreciate your contributions and look forward to collaborating with you.

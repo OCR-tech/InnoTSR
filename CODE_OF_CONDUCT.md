@@ -14,7 +14,7 @@ Examples of behavior that contributes to a positive environment:
 
 ## Our Responsibilities
 
-We are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate action in response to any instances of unacceptable behavior.
+We are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate action in response to any unacceptable behavior.
 
 ## Scope
 

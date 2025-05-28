@@ -1,9 +1,10 @@
 .vscode/
 app/data/
 app/dataset/
+app/models/pretrained_model/
 app/scripts/
+app/src/utils/
+app/src/gui/
 app/tests/
 app/trains/
-app/scr/gui/gui1.py
-app/scr/gui/gui1.py
-
+app/project_structure.txt
