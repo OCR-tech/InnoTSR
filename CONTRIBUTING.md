@@ -21,14 +21,14 @@ There are several ways to contribute:
 If you find a bug or an issue:
 
 1. **Check Existing Issues**: Check if the issue hasn't already been reported.
-2. **Create a New Issue**: Provide a descriptive title, detailed descriptions, any relevant information (screenshots, error messages, and environment).
+2. **Create a New Issue**: Provide a descriptive title, detailed descriptions, relevant information (screenshots, error messages, environment).
 
 ## 💡 Suggesting Features
 
 To propose a new feature:
 
 1. **Check Existing Requests**: Check if the feature hasn't already been proposed.
-2. **Create a New Requests**: Provide a descriptive title, detailed descriptions, any relevant information about the feature.
+2. **Create a New Requests**: Provide a descriptive title, detailed descriptions, relevant information about the feature.
 
 ## 🚀 Submitting Code
 
