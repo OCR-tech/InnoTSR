@@ -4,7 +4,9 @@ app/dataset/
 app/models/pretrained_model/
 app/scripts/
 app/src/utils/
-app/src/gui/
+app/src/gui/gui_main.py
+app/src/gui/gui0.py
+app/src/gui/gui1.py
 app/tests/
 app/trains/
 app/project_structure.txt

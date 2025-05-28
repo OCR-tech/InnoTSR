@@ -29,7 +29,7 @@ def main():
         # command = listen_for_commands()
         command = "start"
         print(f"Voice Command: {command}")
-        speak(command)
+        # speak(command)
 
         # Process the command
         if command:
@@ -42,9 +42,10 @@ def main():
                 print("Start the system.")
                 # speak("Start the system.")
                 detect = TrafficSignDetector(imagepath, videopath, configpath, modelpath, classespath)
-                # detector = TrafficSignDetector("models/traffic_sign_model.h5")
-                detect.onVideo()
-                # detect.onImage()
+
+                # detect.onVideo()
+                detect.onImage()
+
             elif command == "help":
                 print("Available commands: start, help, exit")
                 speak("Available commands: start, help, exit")
