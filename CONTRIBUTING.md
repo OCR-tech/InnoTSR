@@ -10,7 +10,7 @@ Thank you for considering contributing to **InnoTSR**.
 
 There are several ways to contribute:
 
-- Reporting and Fixing Bugs
+- Reporting Issues
 - Suggesting Features
 - Improving Documentation
 - Sharing Use Cases
@@ -56,10 +56,6 @@ When contributing code, please follow these guidelines:
 - Include comments for complex logic or non-obvious behavior.
 - Write tests for new functionality and any changes.
 - Update documentation for user-facing changes. -->
-
-## ❓ Questions
-
-If you have any questions, please contact us at: ocrtech.mail@gmail.com
 
 ## 🎉 Thank you
 
