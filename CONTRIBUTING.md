@@ -24,7 +24,7 @@ If you find a bug or an issue:
 2. **Create a New Issue**: If not found, create a new issue with:
    - A descriptive title.
    - A detailed description of the issue.
-   - Any relevant screenshots, logs, error messages, and environment (if applicable).
+   - Any relevant screenshots, logs, error messages, and environment.
 
 ## 💡 Suggesting Features
 
