@@ -31,10 +31,10 @@ If you find a bug or an issue:
 To propose a new feature:
 
 1. **Check Existing Requests**: Check if the feature hasn't already been proposed.
-2. **Create a New Issue**: If not found, create a new issue with:
+2. **Create a New Requests**: If not found, open a new request with:
    - A descriptive title.
    - A detailed description of the feature
-   - Potential implementation approaches for ideas
+   - The use case and how it would benefit users.
 
 ## 🚀 Submitting Code
 
@@ -64,8 +64,6 @@ If you have any questions, please contact us at: ocrtech.mail@gmail.com
 ## 🎉 Thank you
 
 Thank you for contributing to **InnoTSR**. We appreciate your contributions and look forward to collaborating with you.
-
-<!-- - We appreciate your help in making this project better. -->
 
 ## 📜 License
 
