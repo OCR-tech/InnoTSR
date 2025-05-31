@@ -26,9 +26,9 @@
 
 Requirements:
 
-- Python 3.11 or higher
-- OpenCV for video capturing and processing
-- SpeechRecognition for voice command processing
+- Python >= 3.11
+- OpenCV (video capturing and processing)
+- SpeechRecognition (voice command processing)
   <!-- - TensorFlow 2.18 or higher -->
   <!-- - SSD MobileNet V2 model -->
 
