@@ -13,7 +13,7 @@
 
 <br/>
 <p align="center">
-<img src="docs/img/img1a.png" style="width:35%; height:auto;">&emsp;
+<img src="public/img/img1a.png" style="width:35%; height:auto;">&emsp;
 </p>
 
 ## Key Features
