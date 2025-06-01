@@ -1,3 +1,4 @@
+.venv/
 .vscode/
 app/data/
 app/dataset/
@@ -9,4 +10,4 @@ app/src/gui/gui0.py
 app/src/gui/gui1.py
 app/tests/
 app/trains/
-app/project_structure.txt
+project_structure.txt

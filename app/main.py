@@ -18,38 +18,45 @@ def main():
     # This function is the entry point of the application.
     print("//*** main ***//")
 
-    # The main loop to continuously listen for voice commands and process them
-    while True:
+    # Check if the paths are valid
+    if not ((os.path.exists(imagepath)) or "-") or not (os.path.exists(videopath)) or not (os.path.exists(configpath))  or not (os.path.exists(modelpath)) or not (os.path.exists(classespath)):
+        print("Invalid system paths.")
+        os._exit(1)
+    else:
+        print("Valid system paths")
 
-        # Initialize the system
-        # speak("System initialized. Please provide a command.")
-        # print("System initialized. Please provide a command.")
+        # The main loop to continuously listen for voice commands and process them
+        while True:
 
-        # Listen for voice commands
-        # command = listen_for_commands()
-        command = "start"
-        print(f"Voice Command: {command}")
-        # speak(command)
+            # Initialize the system
+            # speak("System initialized. Please provide a command.")
+            # print("System initialized. Please provide a command.")
 
-        # Process the command
-        if command:
-            if command == "exit":
-                print("Resources released. Exiting the program.")
-                speak("exiting the system.")
-                cv2.destroyAllWindows()
-                os._exit(1)
-            elif command == "start":
-                print("Start the system.")
-                # speak("Start the system.")
-                detect = TrafficSignDetector(imagepath, videopath, configpath, modelpath, classespath)
+            # Listen for voice commands
+            # command = listen_for_commands()
+            command = "start"
+            print(f"Voice Command: {command}")
+            # speak(command)
 
-                detect.onVideo()
-                # detect.onImage()
+            # Process the command
+            if command:
+                if command == "exit":
+                    print("Resources released. Exiting the program.")
+                    speak("exiting the system.")
+                    cv2.destroyAllWindows()
+                    os._exit(1)
+                elif command == "start":
+                    print("Start the system.")
+                    # speak("Start the system.")
+                    # Initialize the TrafficSignDetector with the provided paths
+                    detect = TrafficSignDetector(imagepath, videopath, configpath, modelpath, classespath)
 
-            elif command == "help":
-                print("Available commands: start, help, exit")
-                speak("Available commands: start, help, exit")
+                    detect.onVideo()
+                    # detect.onImage()
 
+                elif command == "help":
+                    print("Available commands: start, help, exit")
+                    speak("Available commands: start, help, exit")
 
 
 
