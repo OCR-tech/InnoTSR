@@ -6,8 +6,6 @@ We are committed to providing a welcoming and supportive environment for all par
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment:
-
 - Using inclusive and respectful language.
 - Focusing on what is best for the community.
 - Showing empathy towards other community members.
