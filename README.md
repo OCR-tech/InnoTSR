@@ -96,5 +96,5 @@ This project is licensed under the [MIT License](LICENSE).
 <!-- If you have questions, suggestions, or would like to contribute, feel free to reach out: -->
 
 - **Email**: ocrtech.mail@gmail.com
-- **Website**: [https://ocr-tech.github.io/InnoTSR](https://ocr-tech.github.io/InnoTSR/)
+- **Website**: [https://ocr-tech.github.io](https://ocr-tech.github.io)
 - **GitHub**: [https://github.com/OCR-tech](https://github.com/OCR-tech)
