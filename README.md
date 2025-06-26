@@ -38,7 +38,7 @@ To install and run this project, please follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/<your-username>/InnoTSR.git
+   git clone https://github.com/OCR-tech/InnoTSR.git
    cd InnoTSR
    ```
 
